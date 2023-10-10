@@ -1,0 +1,35 @@
+List<int> color1 = [
+  0xFF352208,
+  0xFFe1bb80,
+  0xFF7b6b43,
+  0xFF685634,
+  0xFF806443,
+];
+List<int> color2 = [
+  0xFF463f3a,
+  0xFF8a817c,
+  0xFFbcb8b1,
+  0xFFf4f3ee,
+  0xFFe0afa0,
+];
+List<int> color3 = [
+  0xFFc9cba3,
+  0xFFffe1a8,
+  0xFFe26d5c,
+  0xFF723d46,
+  0xFF472d30,
+];
+List<int> color4 = [
+  0xFF8c1c13,
+  0xFFbf4342,
+  0xFFe7d7c1,
+  0xFFa78a7f,
+  0xFF735751,
+];
+List<int> color5 = [
+  0xFFfbba72,
+  0xFFca5310,
+  0xFFbb4d00,
+  0xFF8f250c,
+  0xFF691e06,
+];
